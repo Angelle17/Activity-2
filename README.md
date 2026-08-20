@@ -1,6 +1,6 @@
 # Activity-2
-# _From Information to Visual Communication
-_
+# From Information to Visual Communication
+
 ## Description
 
 This activity presents a two-page professional infographic about Mechanical Engineering and its role in society. The infographic was designed using visual elements such as icons, images, typography, color, hierarchy, and progress rings to communicate information in a clear and engaging way.
